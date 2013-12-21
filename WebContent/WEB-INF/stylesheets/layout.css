@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+#header_wrapper{
+	width:100%;
+	height:20%;
+	border:1 px dashed #ccc;
+}
+#content_wrapper{
+	width:100%;
+	height-min:100px;
+	border:1 px dashed #ccc;
+}
+#footer_wrapper{
+	width:100%;
+	height:20%;
+	border:1 px dashed #ccc;
+}
